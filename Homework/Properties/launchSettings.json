@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Homework": {
+      "commandName": "Project",
+      "commandLineArgs": "-i Document1.xml -o ../../../ConvertedXmlToJson.json"
+    }
+  }
+}
